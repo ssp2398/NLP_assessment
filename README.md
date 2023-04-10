@@ -1,4 +1,4 @@
-# NLP_assessment
+# NLP_project
 Objective :
             Objective 1: 
                          Get the most frequent entities from the tweets.
